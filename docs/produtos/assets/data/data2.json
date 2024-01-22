@@ -1,72 +1,37 @@
 [
     {
         "id": 1,
-        "name": "Kit 5 Camisetas Masculinas Básicas Manga Curta",
-        "price": 42.49,
-        "rating": 4,
-        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/1-1.webp"
+        "name": "Skyline GTR R34",
+        "price": 658142.49,
+        "rating": 5,
+        "image": "https://driftforu.com/cdn/shop/products/image_7903cdc9-124f-4cbb-bbfd-20f75465cb78.jpg?v=1698594496&width=1445"
     },
     {
         "id": 2,
-        "name": "Nutella pote especial 350G ferrero",
+        "name": "Libid Gel",
         "price": 19.99,
         "rating": 5,
-        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/2-1.webp"
+        "image": "https://imgs.casasbahia.com.br/1543124712/1xg.jpg"
     },
     {
         "id": 3,
-        "name": "Console Xbox Series S 500gb Ssd",
-        "price": 2276.10,
+        "name": "PC Gamer",
+        "price": 7276.10,
         "rating": 5,
-        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/3-1.webp"
+        "image": "https://cdn.awsli.com.br/600x450/2443/2443989/produto/220565801772f28fb88.jpg"
     },
     {
         "id": 4,
-        "name": "Fritadeira Elétrica - Airfryer Ichef Polishop - AllSpace - Exclusive - Preto",
+        "name": "Raspa de parede",
         "price": 899.96,
         "rating": 4,
-        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/4-1.webp"
+        "image": "https://imageproxyb.ifunny.co/crop:square,resize:320x,quality:90x75/images/05a69ca37695bcc8f438f20d5570ecb78dcab130627ed9da751b2748f4020aed_3.jpg"
     },
     {
         "id": 5,
-        "name": "Smart TV 43'' LG 43LM631C0SB.BWZ Full HD Wi-Fi + 2 USB 3 HDMI",
-        "price": 1871.10,
+        "name": "Cif Cremoso",
+        "price": 8.10,
         "rating": 4,
-        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/5-1.webp"
-    },
-    {
-        "id": 6,
-        "name": "Tablet Samsung Galaxy A7 Lite 4g 32GB 3GB RAM SM-T225NZAPZTO",
-        "price": 1028.99,
-        "rating": 4,
-        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/6-1.webp"
-    },
-    {
-        "id": 7,
-        "name": "Kit Máquina de Cortar Cabelos Dual Action Titanium e Multigroom 7 em 1 - Philco",
-        "price": 149.99,
-        "rating": 3,
-        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/7-1.webp"
-    },
-    {
-        "id": 8,
-        "name": "Sofá 3 Lugares Retrátil e Reclinável Cama inBox Compact 1,80m Velusoft Café",
-        "price": 888.99,
-        "rating": 4,
-        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/8-1.webp"
-    },
-    {
-        "id": 9,
-        "name": "Cadeira para Auto Snugfix 360º Rotacional Preta Fisher Price - Fisher-Price",
-        "price": 975.92,
-        "rating": 3,
-        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/9-1.webp"
-    },
-    {
-        "id": 10,
-        "name": "Kit de Ferramentas Fasterr 129 peças Bits e Chaves emergênciais",
-        "price": 77.90,
-        "rating": 3,
-        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/10-1.webp"
+        "image": "https://www.ciflimpadores.com.br/images/h0nadbhvm6m4/5jgkr5LU36gaO5BpGC2Zfr/df5d36e933d178eb7e9f30a8048593f4/Q0lGX0JBTk5FUl9QUk9EVVRPU18wMV8xMjAweDEyMDAucG5n/1200w-1200h/linha-completa-do-cif-multiuso-%2B-limpeza.jpg"
     }
 ]
