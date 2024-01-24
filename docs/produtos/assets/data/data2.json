@@ -4,34 +4,39 @@
         "name": "Skyline GTR R34",
         "price": 658142.49,
         "rating": 5,
-        "image": "https://driftforu.com/cdn/shop/products/image_7903cdc9-124f-4cbb-bbfd-20f75465cb78.jpg?v=1698594496&width=1445"
+        "image": "https://driftforu.com/cdn/shop/products/image_7903cdc9-124f-4cbb-bbfd-20f75465cb78.jpg?v=1698594496&width=1445",
+        "link": "https://promocao.link-aqui.com"
     },
     {
         "id": 2,
         "name": "Libid Gel",
         "price": 19.99,
         "rating": 5,
-        "image": "https://imgs.casasbahia.com.br/1543124712/1xg.jpg"
+        "image": "https://imgs.casasbahia.com.br/1543124712/1xg.jpg",
+        "link": "https://promocao.link-aqui.com"
     },
     {
         "id": 3,
         "name": "PC Gamer",
         "price": 7276.10,
         "rating": 5,
-        "image": "https://cdn.awsli.com.br/600x450/2443/2443989/produto/220565801772f28fb88.jpg"
+        "image": "https://cdn.awsli.com.br/600x450/2443/2443989/produto/220565801772f28fb88.jpg",
+        "link": "https://promocao.link-aqui.com"
     },
     {
         "id": 4,
         "name": "Raspa de parede",
         "price": 899.96,
         "rating": 4,
-        "image": "https://imageproxyb.ifunny.co/crop:square,resize:320x,quality:90x75/images/05a69ca37695bcc8f438f20d5570ecb78dcab130627ed9da751b2748f4020aed_3.jpg"
+        "image": "https://imageproxyb.ifunny.co/crop:square,resize:320x,quality:90x75/images/05a69ca37695bcc8f438f20d5570ecb78dcab130627ed9da751b2748f4020aed_3.jpg",
+        "link": "https://promocao.link-aqui.com"
     },
     {
         "id": 5,
         "name": "Cif Cremoso",
         "price": 8.10,
         "rating": 4,
-        "image": "https://www.ciflimpadores.com.br/images/h0nadbhvm6m4/5jgkr5LU36gaO5BpGC2Zfr/df5d36e933d178eb7e9f30a8048593f4/Q0lGX0JBTk5FUl9QUk9EVVRPU18wMV8xMjAweDEyMDAucG5n/1200w-1200h/linha-completa-do-cif-multiuso-%2B-limpeza.jpg"
+        "image": "https://www.ciflimpadores.com.br/images/h0nadbhvm6m4/5jgkr5LU36gaO5BpGC2Zfr/df5d36e933d178eb7e9f30a8048593f4/Q0lGX0JBTk5FUl9QUk9EVVRPU18wMV8xMjAweDEyMDAucG5n/1200w-1200h/linha-completa-do-cif-multiuso-%2B-limpeza.jpg",
+        "link": "https://promocao.link-aqui.com"
     }
 ]

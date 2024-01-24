@@ -1,7 +1,7 @@
 $(document).ready(function () {
   $(".js-slider").slick({
-    dots: false,
-    infinite: true,
+    dots: true,
+    infinite: false,
     speed: 300,
     arrows: false,
     slidesToShow: 4,
@@ -50,10 +50,10 @@ fetch(
                 ${handleRating(el.rating)}
             </div>
             <div class="price">
-                <h5>${handlePrice(el.price)}</h5>
                 <h5>${handlePrice(el.price, true)}</h5>
+                <h5>${handlePrice(el.price)}</h5>
             </div>
-            <a class="button">Ver na loja</a>
+            <a class="button" href="${el.link}">Ver na loja</a>
         </div>
       `
       );
@@ -77,7 +77,7 @@ function handleRating(rating) {
 
 function handlePrice(price, discount = false) {
   if (discount) {
-    price = price * 0.9;
+    price = price * 1.5;
     // price *= 0.9;
   }
   return price.toLocaleString("pt-BR", {

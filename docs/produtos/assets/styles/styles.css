@@ -109,6 +109,7 @@ p {
   cursor: pointer;
   text-align: center;
   transition: 0.3s all ease;
+  text-decoration: none;
 }
 
 .slider .card a.button:hover {
